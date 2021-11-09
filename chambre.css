@@ -1,0 +1,9 @@
+p{
+    color: blue;
+    font-size: 50px;
+}
+body{
+    background-image: url(image/chambre.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
